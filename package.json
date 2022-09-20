@@ -1,0 +1,7 @@
+{
+  "name": "hiring-codespace-js",
+  "version": "1.0.0",
+  "description": "Codespace for JS hiring",
+  "main": "index.js",
+  "license": "MIT"
+}
